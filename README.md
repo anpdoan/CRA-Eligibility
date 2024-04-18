@@ -1,4 +1,4 @@
-# CRA-Eligibility
+# CRA-Eligibility: Source Codes and Data for my 2024 Senior Capstone
 This respository contains the source codes in R and data for my Senior Capstone paper titled: "Analyzing the Community Reinvestment Act (CRA): A Catalyst for Small Business Lending? Evidence from the 2018 MSA Definition Change."
 
 ## Overview
